@@ -1,0 +1,10 @@
+# The skills are links into node_modules/everyapp, made by `everyapp create`
+.agents/
+.claude/
+public/
+pnpm-lock.yaml
+routeTree.gen.ts
+drizzle/
+.cloudflare/
+# Copied from the shadcn package, kept as it came
+src/client/styles/shadcn.css
